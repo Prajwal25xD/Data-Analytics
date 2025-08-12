@@ -1,4 +1,5 @@
 Airbnb NYC 2019 Data Analysis
+
 📌 Overview
 This project analyzes Airbnb listings in New York City for the year 2019. Using publicly available data, it explores trends in pricing, availability, location distribution, and other features of short-term rentals. The analysis is conducted in Python using a Jupyter Notebook.
 
